@@ -1,0 +1,25 @@
+var_fruits = ["bananas","orange","mango","grapes","pineapples"]
+console.log(fruits_fruit);
+var fruits_list = ["bananas","orange","mango","grapes","pineapple"]
+
+console.log(fruits_list);
+
+(5) ["bananas", "orange", "mango", "grapes", "pineapple"]0: "bananas"1: "orange"2: "mango"3: "grapes"4: "pineapple"length: 5__proto__: Array(0)
+
+
+0: "bananas"
+1: "orange"
+2: "mango"
+3: "grapes"
+4: "pineapple"
+length: 5
+console.log(fruits_list.length);
+5
+console.log
+ƒ log() { [native code] }
+
+console.log(fruits_list[1]);
+
+orange
+
+undefined
